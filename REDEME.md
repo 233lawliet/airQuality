@@ -76,7 +76,7 @@ python3、Tdengine
     host = 127.0.0.1
     port = 6030
     user = root
-    password = LLTllt19970518
+    password = 
     ```
 
 - 爬取配置  （主要的是爬取间隔）
